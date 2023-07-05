@@ -8,6 +8,7 @@ public class Code2 : MonoBehaviour
     public string namee;
     public int age = 12;
     public Text msg;
+    [SerializeField] Text shit;
 
     public void OnClick()
     {
